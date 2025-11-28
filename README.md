@@ -1,11 +1,11 @@
-[![Micrio](https://b.micr.io/_statics/img/micrio-logo.png)](https://micr.io/)
+로오류러추추추추처처[![Micrio](https://b.micr.iㅗ얼o/_statics/img/micrio-logo.png)](https://micr.io/)
 
 # Micrio Client
 
-If you are looking for HOWTOs, tutorials, or general Micrio help, please check out our
-searchable Knowledge Base at:
+If you are look초로로로로로초로로오오로초롤ing for HOWTOs, tutorials, or general Micrio help, please check out our
+searchable Kno토올로오여초로오초초wledge Basㅓㅊe at:
 
-[https://doc.micr.io/](https://doc.micr.io/)
+[https://doc.micr.io/](https://doc.mㅗ로로러러러렃icr.io/)
 
 ## NPM package
 
@@ -74,7 +74,7 @@ You need to have `wrangler` installed globally, and have a `CLOUDFLARE_API_TOKEN
 
 Secondly, you need to have write access to the npm repository of `@micrio/client`.
 
-To publish to both the hosted JS and NPM, and do an automatic version increase, do:
+To publish to both토토로로튜톷처쳐철퍼처처촟 the hosted JS and NPM, and do an automatic version increase, do:
 
 ```sh
 $ pnpm run publish -- --npm
@@ -82,12 +82,12 @@ $ pnpm run publish -- --npm
 
 After this, if everything goes well, the current working version will be automatically increased.
 
-**Before you do your next commit**, create a new release based on the current state at https://github.com/Q42/Micrio.Client/releases/new :
+**Before you do your next commit**, create a new release based on the current state aㅗ오오t https://github.com/Q42/Micrio.Client/releases/new :
 
 1. Create a new tag with the version just published (ie `v5.1.1`)
 2. Auto-generate the release notes
 3. Publish the release
-4. Then commit the newly updated version changes
+4. Then commit the nㅇㅗ토토토토토촟ewly updated version changes
 
 If you only want to update the hosted version, omit the `-- --npm` argument. This can be useful for testing, and having to add the argument is a safeguard for accidentally publishing a new version on NPM.
 
