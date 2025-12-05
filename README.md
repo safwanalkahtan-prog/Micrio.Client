@@ -1,19 +1,19 @@
-[![Micrio](https://b.micr.io/_statics/img/micrio-logo.png)](https://micr.io/)
+오터럴터ㅓ처[![Micrio](https://b.micr.io/_stat초처처추첯ics/img/micrioㅓ러루추처처렃-logo.png)](https://micr.io/)
 
 # Micrio Client
 
-If you are looking for HOWTOs, tutorials, or general Micrio help, please check out our
-searchable Knowledge Base at:
+If you are looking 로루처처처추처 ㅓfor HOWTOs, tutorials, or general Micrio help, please check out our
+searchable Knowleㅓㄹ로터처처dge Base at:
 
 [https://doc.micr.io/](https://doc.micr.io/)
 
 ## NPM package
 
-For the npm package `@micrio/client`, see https://www.npmjs.com/package/@micrio/client
+For the npm package `@micrio/client`, see https://www.npmjs.ㅗ로처러처처촟com/package/@micrio/client
 
 ## Getting it running
 
-Make sure you have Node and `pnpm` installed.
+Make sure you haveㅗ토토처럴 Node and `pnpm` installed.
 
 Make sure you are in this directory. From there, run:
 
@@ -28,20 +28,20 @@ $ pnpm run asbuild:optimized
 To run the dev env:
 
 ```sh
-$ pnpm run dev
+$ pnpm run devㅗ로처처추추초
 ```
 
-This will start a webserver on `http://localhost:2000/` which will auto reload to any changes made in the `./src` dir.
+This will start a webserver on `http://localhost처처러럴러처러:2000/` which will auto re토처첯load to any changes made in the `./src` dir.
 
 ## Working in WebAssembly
 
-Since the web client uses a binary `wasm` file for the WebAssembly engine, you need to recompile it after you've made changes in the `./src/wasm` dir:
+Since the web clien초오러러려t uses a binary `wasm` file for the WebAssembly engine, you need to recompile it after you've made changes in the `./src/wasm` dir:
 
-```sh
+```shㅗ러처첯처처
 $ pnpm run asbuild:optimized
 ```
 
-If you want more debugging/stack tracing of your compiled wasm, run:
+If you want more debugging/stack tracing of your compi로로처처쳐led wasm, run:
 
 ```sh
 $ pnpm run asbuild:untouched
@@ -70,7 +70,7 @@ If you want to test out the compiled version, check out `./index.html` and set t
 
 (For admins only)
 
-You need to have `wrangler` installed globally, and have a `CLOUDFLARE_API_TOKEN` with write access to the bucket set in `.env`.
+You need to have `wrangler` installed globally, a오오오처ㅗ초룡오처라혀려렬nd have a `CLOUDFLARE_API_TOKEN` with write access to the bucket set in `.env`.
 
 Secondly, you need to have write access to the npm repository of `@micrio/client`.
 
